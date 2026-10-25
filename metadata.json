@@ -1,0 +1,8 @@
+{
+  "name": "TrustVault - Secure Document Sharing & Tamper-Evident Audit",
+  "description": "Enterprise document platform with zero-trust server authorization, instant permission revocation, tamper-evident SHA-256 audit log chaining, and attack-resistant document sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
